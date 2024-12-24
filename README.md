@@ -1,2 +1,2 @@
-# scrapbook calgary website
- Website for Scrapbook Clagary, a hackathon that is a participant in a global hackathon called Scrabook by Hack Club
+# scrapyard calgary website
+ Website for Scrapyard Calgary, a hackathon that is a participant in a global hackathon called Scrapyard by Hack Club
