@@ -37,9 +37,6 @@
 <style lang="postcss">
   :global(html) {
     background-color: #337d78;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
   }
 
   .cutting-mat {
@@ -47,26 +44,26 @@
   }
 
   .paper-top {
-    top: 90vh; /* Adjust the value as needed */
+    top: 90vh;
   }
 
   .trash-can {
-    top: 50vh; /* Adjust the value as needed */
+    top: 50vh;
   }
 
   .paper-content {
-    top: 140vh; /* Adjust the value as needed */
+    top: 140vh;
   }
 
   .paper-bottom {
-    top: 230vh; /* Adjust the value as needed */
+    top: 230vh;
   }
 
   .bulletin {
-    top: 330vh; /* Adjust the value as needed */
+    top: 330vh;
   }
 
   .lined-paper {
-    top: 467vh; /* Adjust the value as needed */
+    top: 467vh;
   }
 </style>
