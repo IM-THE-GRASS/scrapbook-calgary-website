@@ -19,5 +19,6 @@
       alt="Ripped Paper"
       class="scale-50 -translate-y-48 scale-x-[0.6]"
     />
+    <h1 class="-translate-y-96 text-2xl">aaaaaaaaaaaaaaa</h1>
   </div>
 </div>
