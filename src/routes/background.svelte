@@ -1,13 +1,13 @@
 <img
   src="/assets/cutting-mat.png"
   alt="Cutting Mat"
-  class="cutting-mat absolute w-full"
+  class="cutting-mat wavey absolute w-full"
 />
 
 
 <style lang="postcss">
   :global(html) {
-    background-color: #337d78;
+    background-color: #0f172a;
   }
 
   .cutting-mat {

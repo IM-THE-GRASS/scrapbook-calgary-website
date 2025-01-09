@@ -48,4 +48,11 @@
       --input: 217.2 32.6% 17.5%;
       --ring: 224.3 76.3% 48%;
     }
+    .wavey {
+        --mask:
+            radial-gradient(125.22px at 50% calc(100% - 168px),#000 99%,#0000 101%) calc(50% - 112px) 0/224px 100%,
+            radial-gradient(125.22px at 50% calc(100% + 112px),#0000 99%,#000 101%) 50% calc(100% - 56px)/224px 100% repeat-x;
+        -webkit-mask: var(--mask);
+                mask: var(--mask);
+    }
   }
