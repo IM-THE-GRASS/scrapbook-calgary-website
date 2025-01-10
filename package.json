@@ -142,6 +142,7 @@
 		"strip-ansi-cjs": "^6.0.1",
 		"sucrase": "^3.35.0",
 		"supports-preserve-symlinks-flag": "^1.0.0",
+		"svelte-vertical-timeline": "^2.0.0",
 		"thenify": "^3.3.1",
 		"thenify-all": "^1.6.0",
 		"tiny-glob": "^0.2.9",

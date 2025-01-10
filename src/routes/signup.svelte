@@ -2,7 +2,6 @@
   import { Button } from "$lib/components/ui/button"; 
   import * as Dialog from "$lib/components/ui/dialog";
   import { Input } from "$lib/components/ui/input";
-  import { Label } from "$lib/components/ui/label";
 
 </script>
 
@@ -16,25 +15,7 @@
             Sign up now
         </Button>
     </Dialog.Trigger>
-    <Dialog.Content class=" bg-[#111113] border-none">
-        <Dialog.Title class="font-phantom text-white text-2xl border-none">Sign Up</Dialog.Title>
-            <div class="mb-4">
-                <Label for="name" class="block text-[#B0B4BA] dark text-sm font-medium ">Name</Label>
-                <Input id="name" type="text" class="text-white mt-1 block dark w-full border-none bg-[#18191B]" />
-            </div>
-            <div class="mb-4">
-                <Label for="age" class="block text-[#B0B4BA] dark text-sm font-medium ">Age</Label>
-                <Input id="age" type="number" class=" text-white mt-1 block dark w-full border-none bg-[#18191B]" />
-            </div>
-            <div class="mb-4">  
-                <Label for="email" class="block text-[#B0B4BA] dark text-sm font-medium ">Email</Label>
-                <Input id="email" type="email" class="text-white mt-1  dark block bg-[#18191B] w-full border-none " />
-            </div>
-            <div class="flex justify-end">
-                <Button variant="secondary" class=" text-[#B0B4BA]  bg-[#202221] relative font-phantom dark">Submit</Button>
-                <Dialog.Close>
-                    <Button variant="secondary" class="text-[#B0B4BA]  bg-[#202221] relative font-phantom dark">Cancel</Button>
-                </Dialog.Close>
-            </div>
+    <Dialog.Content class=" bg-[#111113] border-none min-w-[40vw]">
+        <div style="width:100%;height:500px;" data-fillout-id="usURsvEU4Tus" data-fillout-embed-type="standard" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src="https://server.fillout.com/embed/v1/"></script>
     </Dialog.Content>
 </Dialog.Root>

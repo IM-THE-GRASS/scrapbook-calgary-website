@@ -3,7 +3,24 @@
 @tailwind utilities;
  
             
-
+@layer components{
+  .input{
+    @apply text-white mt-1 block dark w-full border-none bg-[#18191B] 
+  }
+  .button{
+    @apply text-[#B0B4BA]  bg-[#202221] relative dark
+  }
+  .label{
+    @apply block text-[#B0B4BA] dark   ;
+    font-family: 'Phantom', sans-serif;
+  }
+  .title{
+    
+    
+    @apply text-4xl font-extrabold text-center mx-16 text-white;
+    font-family: 'Phantom', sans-serif;
+  }
+}
 @layer base {
     :root {
       --background: 0 0% 100%;
