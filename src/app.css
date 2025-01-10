@@ -50,9 +50,11 @@
     }
     .wavey {
         --mask:
-            radial-gradient(125.22px at 50% calc(100% - 168px),#000 99%,#0000 101%) calc(50% - 112px) 0/224px 100%,
-            radial-gradient(125.22px at 50% calc(100% + 112px),#0000 99%,#000 101%) 50% calc(100% - 56px)/224px 100% repeat-x;
+        radial-gradient(118.71px at 50% calc(100% - 165.6px),#000 99%,#0000 101%) calc(50% - 138px) 0/276px 100%,
+        radial-gradient(118.71px at 50% calc(100% + 96.6px),#0000 99%,#000 101%) 50% calc(100% - 69px)/276px 100% repeat-x;
         -webkit-mask: var(--mask);
-                mask: var(--mask);
+        mask: var(--mask);
     }
   }
+
+
