@@ -14,11 +14,17 @@
     @apply block text-[#B0B4BA] dark   ;
     font-family: 'Phantom', sans-serif;
   }
-  .title{
+  .subtitle{
+    
+    
+    @apply text-center mx-16 text-white;
+    font-family: 'Phantom', sans-serif !important;
+  }
+  .title.title{
     
     
     @apply text-4xl font-extrabold text-center mx-16 text-white;
-    font-family: 'Phantom', sans-serif;
+    font-family: 'Phantom', sans-serif !important;
   }
 }
 @layer base {
@@ -71,6 +77,10 @@
         radial-gradient(118.71px at 50% calc(100% + 96.6px),#0000 99%,#000 101%) 50% calc(100% - 69px)/276px 100% repeat-x;
         -webkit-mask: var(--mask);
         mask: var(--mask);
+    }
+    .card.card{
+      @apply m-2 p-5 bg-[#111113]
+
     }
   }
 

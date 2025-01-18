@@ -19,24 +19,23 @@
         { title: 'Code', time: '01:00 pm' },
         { title: 'Dinner', time: '06:00 pm' },
         { title: 'Code', time: '07:00 pm' },
-        { title: 'Sleep', time: 'NEVER' },
     ];
 </script>
 
 <Timeline position="alternate">
-    <Label class="title text-3xl m-0 font-bold text-nowrap">Saturday, March 15</Label>
+    <Label class="subtitle text-4xl m-0 font-bold text-nowrap">Saturday, March 15</Label>
 	{#each Mar15events as event}
 		<TimelineItem>
 			<TimelineOppositeContent slot="opposite-content">
 				
-                <Label class="label text-2xl m-0 font-bold">{event.time}</Label>
+                <Label class="label text-xl m-0 font-bold">{event.time}</Label>
 			</TimelineOppositeContent>
 			<TimelineSeparator>
 				<TimelineDot style="background-color:white"/>
 				<TimelineConnector />
 			</TimelineSeparator>
 			<TimelineContent>
-				<Label class="title text-2xl m-0 font-bold">{event.title}</Label>
+				<Label class="subtitle text-xl m-0 font-bold">{event.title}</Label>
 			</TimelineContent>
 		</TimelineItem>
 	{/each}

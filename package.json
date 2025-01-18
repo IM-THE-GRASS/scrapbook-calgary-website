@@ -29,6 +29,7 @@
 	"description": "Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).",
 	"main": "postcss.config.js",
 	"dependencies": {
+		"@lottiefiles/svelte-lottie-player": "^0.3.1",
 		"acorn": "^8.14.0",
 		"acorn-typescript": "^1.4.13",
 		"ansi-regex": "^6.1.0",
@@ -91,6 +92,7 @@
 		"lilconfig": "^3.1.3",
 		"lines-and-columns": "^1.2.4",
 		"locate-character": "^3.0.0",
+		"lottie-svelte": "^1.3.7",
 		"lru-cache": "^10.4.3",
 		"magic-string": "^0.30.17",
 		"merge2": "^1.4.1",
