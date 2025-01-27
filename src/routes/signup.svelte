@@ -15,7 +15,7 @@
             Sign up now
         </Button>
     </Dialog.Trigger>
-    <Dialog.Content class=" bg-[#111113] border-none min-w-[40vw]">
+    <Dialog.Content class=" bg-[#111113] border-none min-w-[70vw] max-h-[90vh]">
         <div style="width:100%;max-width:90vh;height:500px;" data-fillout-id="7Uf1L6hZC2us" data-fillout-embed-type="standard" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src="https://server.fillout.com/embed/v1/"></script>
     </Dialog.Content>
 </Dialog.Root>
