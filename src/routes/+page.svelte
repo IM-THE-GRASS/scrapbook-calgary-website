@@ -39,8 +39,8 @@
       <div class="text-2xl font-phantom t text-center mt-16 text-white flex flex-col">
         <span>March 15-16</span>
         <div class="flex flex-row">
-          <span>Located @ </span>
-          <a href="https://cow.com">CoFlex</a>
+          <span class="mr-5">Located at  </span>
+          <a href="https://maps.app.goo.gl/dP1YDP1EWPVfzsYM8">CoFlex</a>
           
         </div>
       </div>
