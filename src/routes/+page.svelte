@@ -36,8 +36,13 @@
         become <span class="text-blue-400 bg-slate-900 rounded-md shadow-lg p-1">wonderful inventions.</span>
       </div>
       <Signup />
-      <div class="text-2xl font-phantom t text-center mx-16 text-white">
-        March 15-16, location TDB
+      <div class="text-2xl font-phantom t text-center mt-16 text-white flex flex-col">
+        <span>March 15-16</span>
+        <div class="flex flex-row">
+          <span>Located @ </span>
+          <a href="https://cow.com">CoFlex</a>
+          
+        </div>
       </div>
     </div>
   </div>
