@@ -1,7 +1,10 @@
 <script>
     import * as Card from '$lib/components/ui/card';
     const Sponsors = [
-        { title: 'ARC', description: 'Alpine Reasoning Challenge is a non-profit, youth-led organization based in Calgary, committed to nurturing young minds and encouraging a deep passion for education. Our contests serve as a platform for students to showcase their problem-solving abilities, critical thinking skills, and creativity. At ARC, We firmly believe that nurturing talent in STEM and the arts can shape a brighter future for mathematics, coding, science, and humanities.', rank: 'Bronze', image:'https://static.wixstatic.com/media/7f1f50_a9b71b1c3dd44979a6f4747b0099e722~mv2.png/v1/fill/w_460,h_463,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ARC_logo.png'},
+        { title: 'ARC', description: 'Alpine Reasoning Challenge is a non-profit, youth-led organization based in Calgary, committed to nurturing young minds and encouraging a deep passion for education. Our contests serve as a platform for students to showcase their problem-solving abilities, critical thinking skills, and creativity. At ARC, We firmly believe that nurturing talent in STEM and the arts can shape a brighter future for mathematics, coding, science, and humanities.', rank: '', image:'https://static.wixstatic.com/media/7f1f50_a9b71b1c3dd44979a6f4747b0099e722~mv2.png/v1/fill/w_460,h_463,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ARC_logo.png'},
+        { title: 'Hack Club', description: '', rank: '', image:'https://assets.hackclub.com/icon-rounded.png'},
+        { title: 'CoFlex', description: 'CoFlex hosts a diverse range of professionals, from freelancers to startups, fostering uniqe connections and cross-industry networking opportunities.', rank: '', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzhpZLl36tXw_nPUv-bCRnkmbyoSyGdc4nQ&s'},
+
     ];
 </script>
 
