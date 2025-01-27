@@ -16,6 +16,6 @@
         </Button>
     </Dialog.Trigger>
     <Dialog.Content class=" bg-[#111113] border-none min-w-[40vw]">
-        <div style="width:100%;height:500px;" data-fillout-id="usURsvEU4Tus" data-fillout-embed-type="standard" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src="https://server.fillout.com/embed/v1/"></script>
+        <div style="width:100%;height:500px;" data-fillout-id="7Uf1L6hZC2us" data-fillout-embed-type="standard" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src="https://server.fillout.com/embed/v1/"></script>
     </Dialog.Content>
 </Dialog.Root>
