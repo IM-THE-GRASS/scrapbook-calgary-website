@@ -16,6 +16,6 @@
         </Button>
     </Dialog.Trigger>
     <Dialog.Content class=" bg-[#111113] border-none min-w-[70vw] max-h-[90vh]">
-        <iframe src="https://forms.hackclub.com/scrapyard-signup?event=calgary" class="w-full max-h-[90vh]"></iframe>
+        <iframe src="https://forms.hackclub.com/scrapyard-signup?event=calgary" class="w-full max-h-[90vh]" title="Signup Form"></iframe>
     </Dialog.Content>
 </Dialog.Root>
