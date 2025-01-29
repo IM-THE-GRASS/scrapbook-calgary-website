@@ -23,6 +23,7 @@
     
   </div>
   <Sponsors />
+    
 </div>
 <div class="flex flex-col w-full h-[300vh] absolute"> >
   <div class="flex justify-center flex-col w-full h-screen items-center absolute">
